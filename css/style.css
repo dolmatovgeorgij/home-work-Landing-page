@@ -1,0 +1,40 @@
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+ul{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.menu{
+  display: flex;
+  flex-grow: 1;
+  flex-basis: 0;
+}
+
+.menu-item{
+  padding-right: 30px;
+}
+
+header{
+   background-color: #0a0a0a;
+  padding: 33px 0 32px;
+  color: #717171;
+  font-size: 24px;
+  line-height: 29px; 
+}
+
+.menu{
+  display: flex;
+}
+ 
+.container{
+   max-width: 1256px;
+  margin: 0 auto;
+  padding: 0 15px;
+  
+}
